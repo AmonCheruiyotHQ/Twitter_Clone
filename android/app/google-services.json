@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "655660888390",
+    "project_id": "official-x-twitter",
+    "storage_bucket": "official-x-twitter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655660888390:android:2ac8a3fe5da04d68aa3547",
+        "android_client_info": {
+          "package_name": "com.example.twitterclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655660888390-pqjto17289jrr5h79jh4rs1grcuoigug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrjGT0Od5uKO1bs-61sBkBCb1bVTSFM6Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655660888390-pqjto17289jrr5h79jh4rs1grcuoigug.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "655660888390-i5ajalmfs6sindvss72jmgja1laeam0o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.twitterclone.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
